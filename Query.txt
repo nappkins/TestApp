@@ -1,0 +1,20 @@
+Products:
+-Id
+-ProductName
+
+Categories:
+-Id
+-CategoryName
+
+ProductCategories:
+-Id
+-ProductId
+-CategoryId
+
+-----------------------------------------------------------
+
+SELECT p.ProductName, c.CategoryName
+FROM Products AS p
+LEFT JOIN ProductCategories AS pc ON p.Id = pc.ProductId
+LEFT JOIN Categories AS c ON pc.CategoryId = c.Id
+ORDER BY ProductName

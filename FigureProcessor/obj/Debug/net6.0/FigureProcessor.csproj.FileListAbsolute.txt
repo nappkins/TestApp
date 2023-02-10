@@ -1,0 +1,12 @@
+C:\PracticeProjects\TestApp\FigureProcessor\bin\Debug\net6.0\FigureProcessor.deps.json
+C:\PracticeProjects\TestApp\FigureProcessor\bin\Debug\net6.0\FigureProcessor.dll
+C:\PracticeProjects\TestApp\FigureProcessor\bin\Debug\net6.0\FigureProcessor.pdb
+C:\PracticeProjects\TestApp\FigureProcessor\obj\Debug\net6.0\FigureProcessor.csproj.AssemblyReference.cache
+C:\PracticeProjects\TestApp\FigureProcessor\obj\Debug\net6.0\FigureProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\PracticeProjects\TestApp\FigureProcessor\obj\Debug\net6.0\FigureProcessor.AssemblyInfoInputs.cache
+C:\PracticeProjects\TestApp\FigureProcessor\obj\Debug\net6.0\FigureProcessor.AssemblyInfo.cs
+C:\PracticeProjects\TestApp\FigureProcessor\obj\Debug\net6.0\FigureProcessor.csproj.CoreCompileInputs.cache
+C:\PracticeProjects\TestApp\FigureProcessor\obj\Debug\net6.0\FigureProcessor.dll
+C:\PracticeProjects\TestApp\FigureProcessor\obj\Debug\net6.0\refint\FigureProcessor.dll
+C:\PracticeProjects\TestApp\FigureProcessor\obj\Debug\net6.0\FigureProcessor.pdb
+C:\PracticeProjects\TestApp\FigureProcessor\obj\Debug\net6.0\ref\FigureProcessor.dll
